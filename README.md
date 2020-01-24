@@ -8,7 +8,7 @@ In these experiments, 30 volunteers performed six activities (WALKING, WALKING_U
 A video of the experiment including an example of the 6 recorded activities with one of the participants can be seen in the following link: http://www.youtube.com/watch?v=XOEN9W05_4A
 
 =============================================
-The data set in this submission contains a single data file
-- 'Average_by_subject_activity.txt'
+run_analysis.R:
 
-For more details, please see the codebook.
+- Input: raw measurements data and data labels, from a range of text files
+- Output: text file that sets out the average value, for each subject and activity, of the mean and standard deviation for each measurement.

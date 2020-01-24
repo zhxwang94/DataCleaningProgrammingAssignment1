@@ -1,6 +1,9 @@
 # DataCleaningProgrammingAssignment1
 Programming assignment for Coursera R data cleaning course
 
+The data set in this submission contains a single data file, produced by run_analysis.R:
+- 'Average_by_subject_activity.txt'
+
 This data table summarises the average, for each volunteer and each activity, of the mean and standard deviation of the linear acceleration and angular velocity measurements, mentioned in README.
 
 ====================================
